@@ -1,0 +1,2045 @@
+/*__________________________________________________________________________________div tag attributes*/
+
+#homemain_block {
+	position:absolute;
+	left:50%;
+	margin-left:-450px;
+	background-color:#F8F8F8;
+	top:18px;
+	width:900px;
+	height:937px;
+	z-index:1;
+}
+
+#aboutmemain_block {
+	position:absolute;
+	left:50%;
+	margin-left:-450px;
+	background-color:#F8F8F8;
+	top:18px;
+	width:900px;
+	height:1314px;
+	z-index:1;
+}
+
+#contactusmain_block {
+	position:absolute;
+	left:50%;
+	margin-left:-450px;
+	background-color:#F8F8F8;
+	top:18px;
+	width:900px;
+	height:1133px;
+	z-index:1;
+}
+
+#insurancemain_block {
+	position:absolute;
+	left:50%;
+	margin-left:-450px;
+	background-color:#F8F8F8;
+	top:18px;
+	width:900px;
+	height:928px;
+	z-index:1;
+}
+
+#schedulingmain_block {
+	position:absolute;
+	left:50%;
+	margin-left:-450px;
+	background-color:#F8F8F8;
+	top:18px;
+	width:900px;
+	height:902px;
+	z-index:1;
+}
+
+#eastmain_block {
+	position:absolute;
+	left:50%;
+	margin-left:-450px;
+	background-color:#F8F8F8;
+	top:18px;
+	width:900px;
+	height:908px;
+	z-index:1;
+}
+
+#dnamain_block {
+	position:absolute;
+	left:50%;
+	margin-left:-450px;
+	background-color:#F8F8F8;
+	top:18px;
+	width:900px;
+	height:1522px;
+	z-index:1;
+}
+
+#testimonialsmain_block {
+	position:absolute;
+	left:50%;
+	margin-left:-450px;
+	background-color:#F8F8F8;
+	top:18px;
+	width:900px;
+	height:1078px;
+	z-index:1;
+}
+
+#referralmain_block {
+	position:absolute;
+	left:50%;
+	margin-left:-450px;
+	background-color:#F8F8F8;
+	top:18px;
+	width:900px;
+	height:1349px;
+	z-index:1;
+}
+
+#resourcesmain_block {
+	position:absolute;
+	left:50%;
+	margin-left:-450px;
+	background-color:#F8F8F8;
+	top:18px;
+	width:900px;
+	height:1225px;
+	z-index:1;
+}
+
+#treatmentmain_block {
+	position:absolute;
+	left:50%;
+	margin-left:-450px;
+	background-color:#F8F8F8;
+	top:18px;
+	width:900px;
+	height:1012px;
+	z-index:1;
+}
+
+#conditionsmain_block {
+	position:absolute;
+	left:50%;
+	margin-left:-450px;
+	background-color:#F8F8F8;
+	top:18px;
+	width:900px;
+	height:1094px;
+	z-index:1;
+}
+
+#newslettermain_block {
+	position:absolute;
+	left:50%;
+	margin-left:-450px;
+	background-color:#F8F8F8;
+	top:18px;
+	width:900px;
+	height:1438px;
+	z-index:1;
+}
+
+#newmain_block {
+	position:absolute;
+	left:50%;
+	margin-left:-450px;
+	background-color:#F8F8F8;
+	top:18px;
+	width:900px;
+	height:1438px;
+	z-index:1;
+}
+
+
+
+
+/*__________________________________________________________________________________HOME PAGE CONTENTS*/
+	
+.home_video
+{
+	vertical-align:top;
+	color:#000;
+	padding:5px;
+	text-align:center;
+	line-height:24px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	border-left-color:#427816;
+	border-left-width:1px;
+	border-left-style:solid;
+	border-right-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+	
+	}
+	
+.home_leftnav
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	line-height:24px;
+	color:#060;
+	padding:10px;
+	vertical-align:top;
+	border-right-color:#427816;
+	border-right-width:1px;
+	border-right-style:solid;
+	border-left-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+}
+
+.home_leftnavicon
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	line-height:24px;
+	color:#060;
+	padding:10px;
+	vertical-align:center;
+	border-right-style:none;
+	border-left-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+}
+
+.home_topnav
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	word-spacing:1px;
+	color:#060;
+	border-right-color:#427816;
+	border-right-width:1px;
+	border-right-style:solid;
+	padding:10px;
+	vertical-align:bottom;
+}
+
+.home_siteid
+{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-style:italic;
+	font-size:28pt;
+	color:#060;
+	border-left-color:#427816;
+	border-left-width:1px;
+	border-left-style:solid;
+	padding-left:10px;
+	padding-bottom:12px;
+	vertical-align:bottom;
+}
+
+.home_siteidcontact
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	color:#060;
+	border-right-color:#427816;
+	border-right-width:1px;
+	border-right-style:solid;
+	padding-right:10px;
+	padding-top:15px;
+	vertical-align:top;
+	text-align:right;
+}
+
+.home_breadcrumbs
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	color:#000000;
+	border-left-color:#427816;
+	border-left-width:1px;
+	border-left-style:solid;
+	padding:10px;
+	vertical-align:bottom;
+	text-align:left;
+}
+
+a
+{
+	color:#060;
+	text-decoration:none;
+}
+
+.body
+{
+	vertical-align:top;
+	color:#000;
+	padding:0px;
+	margin-left:10px;
+	margin-right:10px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11pt;
+	
+	}
+
+.i_body
+{
+	vertical-align:top;
+	color:#000;
+	padding:0px;
+	margin-left:10px;
+	margin-right:10px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-style:italic;
+	font-size:11pt;
+	
+	}
+	
+.indented_body
+{
+	vertical-align:top;
+	color:#000;
+	padding:0px;
+	margin-left:25px;
+	margin-right:10px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11pt;
+	
+	}
+	
+.indented_tbody
+{
+	vertical-align:top;
+	color:#000;
+	padding:0px;
+	margin-left:25px;
+	margin-right:10px;
+	margin-top:10px;
+	margin-bottom:10px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11pt;
+	
+	}
+
+.quote_tbody
+{
+	vertical-align:top;
+	color:#000;
+	padding:0px;
+	margin-left:25px;
+	margin-right:20px;
+	margin-top:10px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-style:italic;
+	font-size:11pt;
+	
+	}
+
+.quote_body
+{
+	vertical-align:top;
+	color:#000;
+	padding:0px;
+	margin-left:25px;
+	margin-right:10px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-style:italic;
+	font-size:11pt;
+	
+	}
+	
+.table
+{
+	vertical-align:top;
+	color:#000;
+	padding:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-bottom:0px;
+	margin-top:0px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11pt;
+	
+	}
+	
+.tablebody
+{
+	vertical-align:top;
+	color:#000;
+	padding:0px;
+	margin-left:5px;
+	margin-right:5px;
+	margin-bottom:0px;
+	margin-top:0px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11pt;
+	
+	}	
+
+.tableheader
+{
+	vertical-align:top;
+	font-weight:bold;
+	text-align:center;
+	color:#000;
+	padding:0px;
+	margin-left:9px;
+	margin-right:10px;
+	margin-bottom:0px;
+	margin-top:0px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:9pt;
+	
+	}
+
+.tabletext
+{
+	vertical-align:top;
+	color:#000;
+	padding:0px;
+	margin-left:9px;
+	margin-right:10px;
+	margin-bottom:2px;
+	margin-top:2px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:9pt;
+	
+	}
+	
+.tabletext2
+{
+	vertical-align:top;
+	text-align:center;
+	color:#000;
+	padding:0px;
+	margin-left:8px;
+	margin-right:8px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:8pt;
+	
+	}
+
+.insurance_body
+{
+	vertical-align:top;
+	color:#000;
+	padding:0px;
+	margin-left:50px;
+	margin-right:50px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11pt;
+	
+	}
+	
+.bodyheading
+{
+	vertical-align:top;
+	color:#66411c;
+	padding:10px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14pt;
+	border:none;
+	}
+
+.bottom
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	color:#060;
+	padding:6px;
+	vertical-align:bottom;
+	border:none;
+}
+
+.bottomcontent
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	color:#000000;
+	padding:6px;
+	vertical-align:top;
+	word-spacing:4px;
+	border:none;
+	background-color:#F8F8F8;
+}
+
+
+/*__________________________________________________________________________________INSURANCE INFO CONTENTS*/
+	
+.insurance_video
+{
+	vertical-align:top;
+	color:#000;
+	padding:5px;
+	text-align:center;
+	line-height:24px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	border-left-color:#7b7e29;
+	border-left-width:1px;
+	border-left-style:solid;
+	border-right-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+	
+	}
+	
+.insurance_leftnav
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	line-height:24px;
+	color:#060;
+	padding:10px;
+	vertical-align:top;
+	border-right-color:#7b7e29;
+	border-right-width:1px;
+	border-right-style:solid;
+	border-left-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+}
+
+.insurance_leftnavicon
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	line-height:24px;
+	color:#060;
+	padding:10px;
+	vertical-align:center;
+	border-right-style:none;
+	border-left-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+}
+
+.insurance_topnav
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	word-spacing:1px;
+	color:#060;
+	border-right-color:#7b7e29;
+	border-right-width:1px;
+	border-right-style:solid;
+	padding:10px;
+	vertical-align:bottom;
+}
+
+.insurance_siteid
+{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-style:italic;
+	vertical-align:bottom;
+	font-size:28pt;
+	color:#060;
+	border-left-color:#7b7e29;
+	border-left-width:1px;
+	border-left-style:solid;
+	padding-left:10px;
+	padding-bottom:12px;
+	vertical-align:bottom;
+}
+
+.insurance_siteidcontact
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	color:#060;
+	border-right-color:#7b7e29;
+	border-right-width:1px;
+	border-right-style:solid;
+	padding-right:10px;
+	padding-top:15px;
+	vertical-align:top;
+	text-align:right;
+}
+
+.insurance_breadcrumbs
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	color:#000000;
+	border-left-color:#7b7e29;
+	border-left-width:1px;
+	border-left-style:solid;
+	padding:10px;
+	vertical-align:bottom;
+	text-align:left;
+}
+
+/*__________________________________________________________________________________CONTACT US CONTENTS*/
+	
+.contact_video
+{
+	vertical-align:top;
+	color:#000;
+	padding:5px;
+	text-align:center;
+	line-height:24px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	border-left-color:#41511b;
+	border-left-width:1px;
+	border-left-style:solid;
+	border-right-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+	
+	}
+	
+.contact_rightpic
+{
+	vertical-align:top;
+	color:#000;
+	padding:10px;
+	text-align:left;
+	line-height:24px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	border-left-color:#41511b;
+	border-left-width:1px;
+	border-left-style:solid;
+	border-right-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+	
+	}
+	
+.contact_leftnav
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	line-height:24px;
+	color:#060;
+	padding:10px;
+	vertical-align:top;
+	border-right-color:#41511b;
+	border-right-width:1px;
+	border-right-style:solid;
+	border-left-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+}
+
+.contact_leftnavicon
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	line-height:24px;
+	color:#060;
+	padding:10px;
+	vertical-align:center;
+	border-right-style:none;
+	border-left-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+}
+
+.contact_topnav
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	word-spacing:1px;
+	color:#060;
+	border-right-color:#41511b;
+	border-right-width:1px;
+	border-right-style:solid;
+	padding:10px;
+	vertical-align:bottom;
+}
+
+.contact_siteid
+{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-style:italic;
+	vertical-align:bottom;
+	font-size:28pt;
+	color:#060;
+	border-left-color:#41511b;
+	border-left-width:1px;
+	border-left-style:solid;
+	padding-left:10px;
+	padding-bottom:12px;
+	vertical-align:bottom;
+}
+
+.contact_siteidcontact
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	color:#060;
+	border-right-color:#41511b;
+	border-right-width:1px;
+	border-right-style:solid;
+	padding-right:10px;
+	padding-top:15px;
+	vertical-align:top;
+	text-align:right;
+}
+
+.contact_breadcrumbs
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	color:#000000;
+	border-left-color:#41511b;
+	border-left-width:1px;
+	border-left-style:solid;
+	padding:10px;
+	vertical-align:bottom;
+	text-align:left;
+}
+
+/*__________________________________________________________________________________COUPON SCHEDULING CONTENTS*/
+	
+.scheduling_video
+{
+	vertical-align:top;
+	color:#000;
+	padding:5px;
+	text-align:center;
+	line-height:24px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	border-left-color:#3d4509;
+	border-left-width:1px;
+	border-left-style:solid;
+	border-right-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+	
+	}
+	
+.scheduling_leftnav
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	line-height:24px;
+	color:#060;
+	padding:10px;
+	vertical-align:top;
+	border-right-color:#3d4509;
+	border-right-width:1px;
+	border-right-style:solid;
+	border-left-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+}
+
+.scheduling_leftnavicon
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	line-height:24px;
+	color:#060;
+	padding:10px;
+	vertical-align:center;
+	border-right-style:none;
+	border-left-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+}
+
+.scheduling_topnav
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	word-spacing:1px;
+	color:#060;
+	border-right-color:#3d4509;
+	border-right-width:1px;
+	border-right-style:solid;
+	padding:10px;
+	vertical-align:bottom;
+}
+
+.scheduling_siteid
+{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-style:italic;
+	vertical-align:bottom;
+	font-size:28pt;
+	color:#060;
+	border-left-color:#3d4509;
+	border-left-width:1px;
+	border-left-style:solid;
+	padding-left:10px;
+	padding-bottom:12px;
+	vertical-align:bottom;
+}
+
+.scheduling_siteidcontact
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	color:#060;
+	border-right-color:#3d4509;
+	border-right-width:1px;
+	border-right-style:solid;
+	padding-right:10px;
+	padding-top:15px;
+	vertical-align:top;
+	text-align:right;
+}
+
+.scheduling_breadcrumbs
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	color:#000000;
+	border-left-color:#3d4509;
+	border-left-width:1px;
+	border-left-style:solid;
+	padding:10px;
+	vertical-align:bottom;
+	text-align:left;
+}
+
+/*__________________________________________________________________________________ABOUT ME CONTENTS*/
+	
+.about_video
+{
+	vertical-align:top;
+	color:#000;
+	padding:5px;
+	text-align:center;
+	line-height:24px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	border-left-color:#66411c;
+	border-left-width:1px;
+	border-left-style:solid;
+	border-right-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+	
+	}
+	
+.about_rightpic
+{
+	vertical-align:top;
+	color:#000;
+	padding:5px;
+	padding-top:15px;
+	text-align:center;
+	line-height:24px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-style:italic;
+	font-size:12pt;
+	border-left-color:#66411c;
+	border-left-width:1px;
+	border-left-style:solid;
+	border-right-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+	
+	}
+	
+.about_leftnav
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	line-height:24px;
+	color:#060;
+	padding:10px;
+	vertical-align:top;
+	border-right-color:#66411c;
+	border-right-width:1px;
+	border-right-style:solid;
+	border-left-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+}
+
+.about_leftnavicon
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	line-height:24px;
+	color:#060;
+	padding:10px;
+	vertical-align:center;
+	border-right-style:none;
+	border-left-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+}
+
+.about_topnav
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	word-spacing:1px;
+	color:#060;
+	border-right-color:#66411c;
+	border-right-width:1px;
+	border-right-style:solid;
+	padding:10px;
+	vertical-align:bottom;
+}
+
+.about_siteid
+{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-style:italic;
+	vertical-align:bottom;
+	font-size:28pt;
+	color:#060;
+	border-left-color:#66411c;
+	border-left-width:1px;
+	border-left-style:solid;
+	padding-left:10px;
+	padding-bottom:12px;
+	vertical-align:bottom;
+}
+
+.about_siteidcontact
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	color:#060;
+	border-right-color:#66411c;
+	border-right-width:1px;
+	border-right-style:solid;
+	padding-right:10px;
+	padding-top:15px;
+	vertical-align:top;
+	text-align:right;
+}
+
+.about_breadcrumbs
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	color:#000000;
+	border-left-color:#66411c;
+	border-left-width:1px;
+	border-left-style:solid;
+	padding:10px;
+	vertical-align:bottom;
+	text-align:left;
+}
+
+/*__________________________________________________________________________________EAST ASIAN MEDICINE CONTENTS*/
+	
+.east_video
+{
+	vertical-align:top;
+	color:#000;
+	padding:5px;
+	text-align:center;
+	line-height:24px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	border-left-color:#4c542b;
+	border-left-width:1px;
+	border-left-style:solid;
+	border-right-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+	
+	}
+	
+.east_rightpic
+{
+	vertical-align:top;
+	color:#000;
+	padding:10px;
+	text-align:left;
+	line-height:24px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	border-left-color:#4c542b;
+	border-left-width:1px;
+	border-left-style:solid;
+	border-right-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+	
+	}
+	
+.east_leftnav
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	line-height:24px;
+	color:#060;
+	padding:10px;
+	vertical-align:top;
+	border-right-color:#4c542b;
+	border-right-width:1px;
+	border-right-style:solid;
+	border-left-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+}
+
+.east_leftnavicon
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	line-height:24px;
+	color:#060;
+	padding:10px;
+	vertical-align:center;
+	border-right-style:none;
+	border-left-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+}
+
+.east_topnav
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	word-spacing:1px;
+	color:#060;
+	border-right-color:#4c542b;
+	border-right-width:1px;
+	border-right-style:solid;
+	padding:10px;
+	vertical-align:bottom;
+}
+
+.east_siteid
+{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-style:italic;
+	vertical-align:bottom;
+	font-size:28pt;
+	color:#060;
+	border-left-color:#4c542b;
+	border-left-width:1px;
+	border-left-style:solid;
+	padding-left:10px;
+	padding-bottom:12px;
+	vertical-align:bottom;
+}
+
+.east_siteidcontact
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	color:#060;
+	border-right-color:#4c542b;
+	border-right-width:1px;
+	border-right-style:solid;
+	padding-right:10px;
+	padding-top:15px;
+	vertical-align:top;
+	text-align:right;
+}
+
+.east_breadcrumbs
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	color:#000000;
+	border-left-color:#4c542b;
+	border-left-width:1px;
+	border-left-style:solid;
+	padding:10px;
+	vertical-align:bottom;
+	text-align:left;
+}
+
+.east_body
+{
+	vertical-align:top;
+	color:#000;
+	padding:0px;
+	margin-left:50px;
+	margin-right:50px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11pt;
+	
+	}
+
+.table
+{
+	margin-left:10px;
+	margin-top:10px;
+}
+
+/*__________________________________________________________________________________DNA ANALYSIS PAGE CONTENTS*/
+	
+.dna_video
+{
+	vertical-align:top;
+	color:#000;
+	padding:5px;
+	text-align:center;
+	line-height:24px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	border-left-color:#658507;
+	border-left-width:1px;
+	border-left-style:solid;
+	border-right-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+	
+	}
+	
+.dna_rightpic
+{
+	vertical-align:top;
+	color:#000;
+	padding:10px;
+	text-align:left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	border-left-color:#658507;
+	border-left-width:1px;
+	border-left-style:solid;
+	border-right-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+	
+	}
+	
+.dnabody
+{
+	vertical-align:top;
+	color:#000;
+	padding:0px;
+	margin-left:0px;
+	margin-right:10px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11pt;
+	
+	}
+	
+.dna_table
+{
+	vertical-align:top;
+	color:#000;
+	padding:0px;
+	margin-left:7px;
+	margin-right:7px;
+	margin-bottom:0px;
+	margin-top:0px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11pt;
+	
+	}	
+
+.dna_tableheader
+{
+	vertical-align:top;
+	font-weight:bold;
+	text-align:center;
+	color:#000;
+	padding:0px;
+	margin-left:10px;
+	margin-right:10px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11pt;
+	
+	}
+
+.dna_tabletext
+{	text-align:center;
+	color:#000;
+	padding-left:5px;
+	padding-right:5px;
+	padding-bottom:0px;
+	padding-top:0px;
+	margin-left:7px;
+	margin-right:7px;
+	margin-top:5px;
+	margin-bottom:5px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:9pt;
+	
+	}
+	
+.dna_tabletext2
+{
+	vertical-align:top;
+	text-align:center;
+	color:#000;
+	padding:0px;
+	margin-left:8px;
+	margin-right:8px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:8pt;
+	
+	}
+
+
+.dna_leftnav
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	line-height:24px;
+	color:#060;
+	padding:10px;
+	vertical-align:top;
+	border-right-color:#658507;
+	border-right-width:1px;
+	border-right-style:solid;
+	border-left-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+}
+
+.dna_leftnavicon
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	line-height:24px;
+	color:#060;
+	padding:10px;
+	vertical-align:center;
+	border-right-style:none;
+	border-left-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+}
+
+.dna_topnav
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	word-spacing:1px;
+	color:#060;
+	border-right-color:#658507;
+	border-right-width:1px;
+	border-right-style:solid;
+	padding:10px;
+	vertical-align:bottom;
+}
+
+.dna_siteid
+{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-style:italic;
+	font-size:28pt;
+	color:#060;
+	border-left-color:#658507;
+	border-left-width:1px;
+	border-left-style:solid;
+	padding-left:10px;
+	padding-bottom:12px;
+	vertical-align:bottom;
+}
+
+.dna_siteidcontact
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	color:#060;
+	border-right-color:#658507;
+	border-right-width:1px;
+	border-right-style:solid;
+	padding-right:10px;
+	padding-top:15px;
+	vertical-align:top;
+	text-align:right;
+}
+
+.dna_breadcrumbs
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	color:#000000;
+	border-left-color:#658507;
+	border-left-width:1px;
+	border-left-style:solid;
+	padding:10px;
+	vertical-align:bottom;
+	text-align:left;
+}
+
+/*__________________________________________________________________________________TESTIMONIALS PAGE CONTENTS*/
+	
+.testimonials_video
+{
+	vertical-align:top;
+	color:#000;
+	padding:5px;
+	text-align:center;
+	line-height:24px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	border-left-color:#896632;
+	border-left-width:1px;
+	border-left-style:solid;
+	border-right-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+	
+	}
+	
+.testimonials_leftnav
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	line-height:24px;
+	color:#060;
+	padding:10px;
+	vertical-align:top;
+	border-right-color:#896632;
+	border-right-width:1px;
+	border-right-style:solid;
+	border-left-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+}
+
+.testimonials_leftnavicon
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	line-height:24px;
+	color:#060;
+	padding:10px;
+	vertical-align:center;
+	border-right-style:none;
+	border-left-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+}
+
+.testimonials_topnav
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	word-spacing:1px;
+	color:#060;
+	border-right-color:#896632;
+	border-right-width:1px;
+	border-right-style:solid;
+	padding:10px;
+	vertical-align:bottom;
+}
+
+.testimonials_siteid
+{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-style:italic;
+	font-size:28pt;
+	color:#060;
+	border-left-color:#896632;
+	border-left-width:1px;
+	border-left-style:solid;
+	padding-left:10px;
+	padding-bottom:12px;
+	vertical-align:bottom;
+}
+
+.testimonials_siteidcontact
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	color:#060;
+	border-right-color:#896632;
+	border-right-width:1px;
+	border-right-style:solid;
+	padding-right:10px;
+	padding-top:15px;
+	vertical-align:top;
+	text-align:right;
+}
+
+.testimonials_breadcrumbs
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	color:#000000;
+	border-left-color:#896632;
+	border-left-width:1px;
+	border-left-style:solid;
+	padding:10px;
+	vertical-align:bottom;
+	text-align:left;
+}
+
+/*__________________________________________________________________________________REFERRAL PAGE CONTENTS*/
+	
+.referral_video
+{
+	vertical-align:top;
+	color:#000;
+	padding:5px;
+	text-align:center;
+	line-height:24px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	border-left-color:#658507;
+	border-left-width:1px;
+	border-left-style:solid;
+	border-right-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+	
+	}
+	
+.referral_leftnav
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	line-height:24px;
+	color:#060;
+	padding:10px;
+	vertical-align:top;
+	border-right-color:#658507;
+	border-right-width:1px;
+	border-right-style:solid;
+	border-left-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+}
+
+.referral_leftnavicon
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	line-height:24px;
+	color:#060;
+	padding:10px;
+	vertical-align:center;
+	border-right-style:none;
+	border-left-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+}
+
+.referral_topnav
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	word-spacing:1px;
+	color:#060;
+	border-right-color:#658507;
+	border-right-width:1px;
+	border-right-style:solid;
+	padding:10px;
+	vertical-align:bottom;
+}
+
+.referral_siteid
+{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-style:italic;
+	font-size:28pt;
+	color:#060;
+	border-left-color:#658507;
+	border-left-width:1px;
+	border-left-style:solid;
+	padding-left:10px;
+	padding-bottom:12px;
+	vertical-align:bottom;
+}
+
+.referral_siteidcontact
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	color:#060;
+	border-right-color:#658507;
+	border-right-width:1px;
+	border-right-style:solid;
+	padding-right:10px;
+	padding-top:15px;
+	vertical-align:top;
+	text-align:right;
+}
+
+.referral_breadcrumbs
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	color:#000000;
+	border-left-color:#658507;
+	border-left-width:1px;
+	border-left-style:solid;
+	padding:10px;
+	vertical-align:bottom;
+	text-align:left;
+}
+
+.r_tabletext
+{
+	vertical-align:top;
+	color:#000;
+	padding:10px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11pt;
+	
+	}
+	
+.r_table
+{
+	margin-left:30px;
+} 
+
+/*__________________________________________________________________________________TREATMENT METHODS PAGE CONTENTS*/
+	
+.treatment_video
+{
+	vertical-align:top;
+	color:#000;
+	padding:5px;
+	text-align:center;
+	line-height:24px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	border-left-color:#896632;
+	border-left-width:1px;
+	border-left-style:solid;
+	border-right-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+	
+	}
+	
+.treatment_leftnav
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	line-height:24px;
+	color:#060;
+	padding:10px;
+	vertical-align:top;
+	border-right-color:#896632;
+	border-right-width:1px;
+	border-right-style:solid;
+	border-left-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+}
+
+.treatment_leftnavicon
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	line-height:24px;
+	color:#060;
+	padding:10px;
+	vertical-align:center;
+	border-right-style:none;
+	border-left-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+}
+
+.treatment_topnav
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	word-spacing:1px;
+	color:#060;
+	border-right-color:#896632;
+	border-right-width:1px;
+	border-right-style:solid;
+	padding:10px;
+	vertical-align:bottom;
+}
+
+.treatment_siteid
+{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-style:italic;
+	font-size:28pt;
+	color:#060;
+	border-left-color:#896632;
+	border-left-width:1px;
+	border-left-style:solid;
+	padding-left:10px;
+	padding-bottom:12px;
+	vertical-align:bottom;
+}
+
+.treatment_siteidcontact
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	color:#060;
+	border-right-color:#896632;
+	border-right-width:1px;
+	border-right-style:solid;
+	padding-right:10px;
+	padding-top:15px;
+	vertical-align:top;
+	text-align:right;
+}
+
+.treatment_breadcrumbs
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	color:#000000;
+	border-left-color:#896632;
+	border-left-width:1px;
+	border-left-style:solid;
+	padding:10px;
+	vertical-align:bottom;
+	text-align:left;
+}
+
+/*__________________________________________________________________________________RESOURCES PAGE CONTENTS*/
+	
+.resources_video
+{
+	vertical-align:top;
+	color:#000;
+	padding:5px;
+	text-align:center;
+	line-height:24px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	border-left-color:#658507;
+	border-left-width:1px;
+	border-left-style:solid;
+	border-right-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+	
+	}
+
+.resourcesi_body
+{
+	vertical-align:top;
+	color:#000;
+	padding:0px;
+	margin-left:20px;
+	margin-right:10px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-style:italic;
+	font-size:11pt;
+	
+	}
+	
+.resources_leftnav
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	line-height:24px;
+	color:#060;
+	padding:10px;
+	vertical-align:top;
+	border-right-color:#658507;
+	border-right-width:1px;
+	border-right-style:solid;
+	border-left-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+}
+
+.resources_leftnavicon
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	line-height:24px;
+	color:#060;
+	padding:10px;
+	vertical-align:center;
+	border-right-style:none;
+	border-left-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+}
+
+.resources_topnav
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	word-spacing:1px;
+	color:#060;
+	border-right-color:#658507;
+	border-right-width:1px;
+	border-right-style:solid;
+	padding:10px;
+	vertical-align:bottom;
+}
+
+.resources_siteid
+{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-style:italic;
+	font-size:28pt;
+	color:#060;
+	border-left-color:#658507;
+	border-left-width:1px;
+	border-left-style:solid;
+	padding-left:10px;
+	padding-bottom:12px;
+	vertical-align:bottom;
+}
+
+.resources_siteidcontact
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	color:#060;
+	border-right-color:#658507;
+	border-right-width:1px;
+	border-right-style:solid;
+	padding-right:10px;
+	padding-top:15px;
+	vertical-align:top;
+	text-align:right;
+}
+
+.resources_breadcrumbs
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	color:#000000;
+	border-left-color:#658507;
+	border-left-width:1px;
+	border-left-style:solid;
+	padding:10px;
+	vertical-align:bottom;
+	text-align:left;
+}
+
+/*__________________________________________________________________________________CONDITIONS TREATED PAGE CONTENTS*/
+	
+.conditions_video
+{
+	vertical-align:top;
+	color:#000;
+	padding:5px;
+	text-align:center;
+	line-height:24px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	border-left-color:#896632;
+	border-left-width:1px;
+	border-left-style:solid;
+	border-right-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+	
+	}
+	
+.conditions_leftnav
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	line-height:24px;
+	color:#060;
+	padding:10px;
+	vertical-align:top;
+	border-right-color:#896632;
+	border-right-width:1px;
+	border-right-style:solid;
+	border-left-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+}
+
+.conditions_leftnavicon
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	line-height:24px;
+	color:#060;
+	padding:10px;
+	vertical-align:center;
+	border-right-style:none;
+	border-left-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+}
+
+.conditions_topnav
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	word-spacing:1px;
+	color:#060;
+	border-right-color:#896632;
+	border-right-width:1px;
+	border-right-style:solid;
+	padding:10px;
+	vertical-align:bottom;
+}
+
+.conditions_siteid
+{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-style:italic;
+	font-size:28pt;
+	color:#060;
+	border-left-color:#896632;
+	border-left-width:1px;
+	border-left-style:solid;
+	padding-left:10px;
+	padding-bottom:12px;
+	vertical-align:bottom;
+}
+
+.conditions_siteidcontact
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	color:#060;
+	border-right-color:#896632;
+	border-right-width:1px;
+	border-right-style:solid;
+	padding-right:10px;
+	padding-top:15px;
+	vertical-align:top;
+	text-align:right;
+}
+
+.conditions_breadcrumbs
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	color:#000000;
+	border-left-color:#896632;
+	border-left-width:1px;
+	border-left-style:solid;
+	padding:10px;
+	vertical-align:bottom;
+	text-align:left;
+}
+
+/*__________________________________________________________________________________NEWSLETTER/ARTICLES PAGE CONTENTS*/
+	
+.newsletter_video
+{
+	vertical-align:top;
+	color:#000;
+	padding:5px;
+	text-align:center;
+	line-height:24px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	border-left-color:#2f5b11;
+	border-left-width:1px;
+	border-left-style:solid;
+	border-right-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+	
+	}
+	
+.newsletter_leftnav
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	line-height:24px;
+	color:#060;
+	padding:10px;
+	vertical-align:top;
+	border-right-color:#2f5b11;
+	border-right-width:1px;
+	border-right-style:solid;
+	border-left-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+}
+
+.newsletter_leftnavicon
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	line-height:24px;
+	color:#060;
+	padding:10px;
+	vertical-align:center;
+	border-right-style:none;
+	border-left-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+}
+
+.newsletter_topnav
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	word-spacing:1px;
+	color:#060;
+	border-right-color:#2f5b11;
+	border-right-width:1px;
+	border-right-style:solid;
+	padding:10px;
+	vertical-align:bottom;
+}
+
+.newsletter_siteid
+{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-style:italic;
+	font-size:28pt;
+	color:#060;
+	border-left-color:#2f5b11;
+	border-left-width:1px;
+	border-left-style:solid;
+	padding-left:10px;
+	padding-bottom:12px;
+	vertical-align:bottom;
+}
+
+.newsletter_siteidcontact
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	color:#060;
+	border-right-color:#2f5b11;
+	border-right-width:1px;
+	border-right-style:solid;
+	padding-right:10px;
+	padding-top:15px;
+	vertical-align:top;
+	text-align:right;
+}
+
+.newsletter_breadcrumbs
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	color:#000000;
+	border-left-color:#2f5b11;
+	border-left-width:1px;
+	border-left-style:solid;
+	padding:10px;
+	vertical-align:bottom;
+	text-align:left;
+}
+
+/*__________________________________________________________________________________NEW PATIENT INFO PAGE CONTENTS*/
+	
+.new_video
+{
+	vertical-align:top;
+	color:#000;
+	padding:5px;
+	text-align:center;
+	line-height:24px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	border-left-color:#896632;
+	border-left-width:1px;
+	border-left-style:solid;
+	border-right-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+	
+	}
+	
+.new_rightpic
+{
+	vertical-align:top;
+	color:#000;
+	text-align:left;
+	padding-left:10px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11pt;	
+	}
+	
+.new_body
+{
+	vertical-align:top;
+	color:#000;
+	padding:0px;
+	margin-left:25px;
+	margin-right:25px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11pt;
+	
+	}
+	
+.new_leftnav
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	line-height:24px;
+	color:#060;
+	padding:10px;
+	vertical-align:top;
+	border-right-color:#896632;
+	border-right-width:1px;
+	border-right-style:solid;
+	border-left-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+}
+
+.new_leftnavicon
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	line-height:24px;
+	color:#060;
+	padding:10px;
+	vertical-align:center;
+	border-right-style:none;
+	border-left-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+}
+
+.new_topnav
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	word-spacing:1px;
+	color:#060;
+	border-right-color:#896632;
+	border-right-width:1px;
+	border-right-style:solid;
+	padding:10px;
+	vertical-align:bottom;
+}
+
+.new_siteid
+{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-style:italic;
+	font-size:28pt;
+	color:#060;
+	border-left-color:#896632;
+	border-left-width:1px;
+	border-left-style:solid;
+	padding-left:10px;
+	padding-bottom:12px;
+	vertical-align:bottom;
+}
+
+.new_siteidcontact
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	color:#060;
+	border-right-color:#896632;
+	border-right-width:1px;
+	border-right-style:solid;
+	padding-right:10px;
+	padding-top:15px;
+	vertical-align:top;
+	text-align:right;
+}
+
+.new_breadcrumbs
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10pt;
+	color:#000000;
+	border-left-color:#896632;
+	border-left-width:1px;
+	border-left-style:solid;
+	padding:10px;
+	vertical-align:bottom;
+	text-align:left;
+}
+
+.newbodyheading
+{
+	vertical-align:top;
+	color:#66411c;
+	padding:10px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14pt;
+	border-left-color:#896632;
+	border-left-width:1px;
+	border-left-style:solid;
+	border-right-style:none;
+	border-top-style:none;
+	border-bottom-style:none;
+	}
